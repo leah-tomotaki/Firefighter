@@ -1,2 +1,2 @@
 # firefighter
-TAMUhack 2020. Check out 'develop'
+TAMUhack 2020. 
